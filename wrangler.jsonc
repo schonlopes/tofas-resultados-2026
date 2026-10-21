@@ -10,7 +10,7 @@
   "d1_databases": [{ "binding": "DB", "database_name": "tofas", "database_id": "ee2fac7b-4ed6-462b-acdc-67d25db0aee2", "migrations_dir": "migrations" }],
   "vars": {
     "AUTH_PROVIDER": "google",
-    "GOOGLE_CLIENT_ID": "",
+    "GOOGLE_CLIENT_ID": "690960078159-91f75dmbe15adpu7c0ir519v2023ib57.apps.googleusercontent.com",
     "DOCUMENT_DELIVERY": "drive",
     "RELEASE_APPROVED": "false",
     "ACCESS_ISSUER": "https://configure-your-team.cloudflareaccess.com",
