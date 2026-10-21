@@ -1,0 +1,12 @@
+node_modules/
+.wrangler/
+.dev.vars*
+.env*
+private/
+*.sql.private
+*.log
+dist-pages/
+*.zip
+*.pem
+*.key
+*service-account*.json
